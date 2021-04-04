@@ -1,0 +1,3 @@
+src/*
+!src/adminer.php
+!src/index.php
